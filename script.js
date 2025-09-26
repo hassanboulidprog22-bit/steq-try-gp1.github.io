@@ -1,0 +1,1 @@
+c=document;document.setLocalMeaning=c;
